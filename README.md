@@ -1,4 +1,4 @@
-#PHP Projects
+# PHP Projects
 This repository contains all the projects that I'm creating with core php.
 
 ### 1. ShoutOut
